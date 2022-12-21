@@ -53,6 +53,10 @@
 <br/>
 <br/>
 
+<h2>Current Streak</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="surajpa123" /></p>
+<br>
+
 <!-- [![Soumyanil's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhav1kmaru&theme=react-dark)](https://github.com/bhav1kmaru/github-readme-activity-graph) -->
 
 <br/>
