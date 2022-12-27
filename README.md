@@ -57,14 +57,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="surajpa123" /></p>
 <br>
 
-<!-- [![Soumyanil's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhav1kmaru&theme=react-dark)](https://github.com/bhav1kmaru/github-readme-activity-graph) -->
 
-<br/>
-<br/>
-
-<!--
-
-**soumyanil22/soumyanil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
