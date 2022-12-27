@@ -44,7 +44,7 @@
 
 <h2> 📊 My Github Stats</h2>
 
-[![Soumyanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>✨ Top Languages Card</h2>
 
