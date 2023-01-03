@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/bhavik-maru-9b52b31b9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="soumyanil" height="30" width="40" /></a>
  <a href="https://twitter.com/BhavikMaru18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
- <a href="https://bhav1kmaru.github.io/portfolio/">
+ <a href="https://bhav1kmaru.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
 </p>
