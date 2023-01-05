@@ -64,7 +64,9 @@
 
 <h2 align="center"> 📊 My Github Stats</h2>
 
-<div align='center'>[![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align='center'><img src='https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical' /></div>
 
 <h2 align="center">✨ Top Languages Card</h2>
 
