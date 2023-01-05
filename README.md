@@ -74,7 +74,7 @@
 <br/>
 
 <h2>Current Streak</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="surajpa123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="bhav1kmaru" /></p>
 <br>
 
 
