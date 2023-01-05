@@ -67,7 +67,7 @@
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" /></div>
 
-<h2 align="center">✨ Top Languages Card</h2>
+<h2 align="center">✨ Top Languages</h2>
 
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav1kmaru&layout=compact)](https://github.com/bhav1kmaru/github-readme-stats" /></div>
