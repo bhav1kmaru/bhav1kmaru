@@ -3,7 +3,7 @@
 </p> -->
 
 <hr>
-
+<div align='center'><a href="https://app.daily.dev/bhav1kmaru"><img src="https://github.com/bhav1kmaru/bhav1kmaru/blob/main/devcard.svg" width="400" alt="Bhavik Maru's Dev Card"/></a></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bhavik Maru</h1>
 <h3 align="center">Full Stack Web Developer | Gamer</h3>
 <p align="center">
@@ -89,10 +89,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
--->
 
 
-- <a href="https://app.daily.dev/bhav1kmaru"><img src="https://github.com/bhav1kmaru/bhav1kmaru/blob/main/devcard.svg" width="400" alt="Bhavik Maru's Dev Card"/></a>
+
+- 
 <!-- - 👋 Hi, I’m @bhav1kmaru
 - 👀 I’m interested in MERN stack development
 - 🌱 I’m currently learning React
