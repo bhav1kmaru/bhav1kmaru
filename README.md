@@ -64,18 +64,18 @@
 
 <h2 align="center"> 📊 My Github Stats</h2>
 
-[![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=radical' /></div>
 
 <h2 align="center">✨ Top Languages Card</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav1kmaru&layout=compact)](https://github.com/bhav1kmaru/github-readme-stats)
+
+<div align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bhav1kmaru&layout=compact' /></div>
 
 <br/>
 <br/>
 
-<h2 align="center">Current Streak</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="bhav1kmaru" /></p>
+<h2 align="center">️‍🔥 Current Streak</h2>
+<div align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav1kmaru&" alt="bhav1kmaru" /></div>
 <br>
 
