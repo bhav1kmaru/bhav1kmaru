@@ -2,7 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p> -->
 
-<hr>
 <div align='center'><a href="https://app.daily.dev/bhav1kmaru"><img src="https://github.com/bhav1kmaru/bhav1kmaru/blob/main/devcard.svg" width="400" alt="Bhavik Maru's Dev Card"/></a></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bhavik Maru</h1>
 <h3 align="center">Full Stack Web Developer | Gamer</h3>
@@ -39,6 +38,7 @@
 <br/>
 <br/>
    <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
+   <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' align='center'alt='bootstrap' />
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
