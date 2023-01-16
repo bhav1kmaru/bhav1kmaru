@@ -69,19 +69,19 @@
 <h2 align="center"> 📊 My Github Stats</h2>
 
 
-<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=transparent" /></div>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=dracula" /></div>
 
 <h2 align="center">✨ Top Languages</h2>
 
 
-<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=bhav1kmaru&show_icons=true&theme=transparent" /></div>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=bhav1kmaru&show_icons=true&theme=dracula" /></div>
 <!-- <div align='center'>![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&show_icons=true&theme=transparent)</div> -->
 
 <br/>
 <br/>
 
 <h2 align="center">️‍🔥 Current Streak</h2>
-<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=bhav1kmaru&theme=tokyonight_duo" alt="bhav1kmaru" /></div>
+<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=bhav1kmaru&theme=dracula" alt="bhav1kmaru" /></div>
 <br>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhav1kmaru&theme=tokyonight_duo)](https://git.io/streak-stats) -->
 
