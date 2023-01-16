@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p> -->
 
-<div align='center'><a href="https://app.daily.dev/bhav1kmaru"><img src="https://github.com/bhav1kmaru/bhav1kmaru/blob/main/devcard.svg" width="400" alt="Bhavik Maru's Dev Card"/></a></div>
+<div align='center'><a href="https://app.daily.dev/bhav1kmaru"><img src="https://api.daily.dev/devcards/5847bace03dc45b8a77853532ed4599f.png?r=8qj" width="400" alt="Bhavik Maru's Dev Card"/></a></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bhavik Maru</h1>
 <h3 align="center">Full Stack Web Developer | Gamer</h3>
 <p align="center">
