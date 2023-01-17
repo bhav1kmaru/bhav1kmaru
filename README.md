@@ -74,7 +74,8 @@
 <h2 align="center">✨ Top Languages</h2>
 
 
-<div align='center'><img src="https://github-readme-stats-bhav1kmaru.vercel.app/api?username=bhav1kmaru&show_icons=true&theme=dracula" /></div>
+<div align='center'><img src="https://github-readme-stats-bhav1kmaru.vercel.app/api/top-langs/?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=dracula" /></div>
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <div align='center'>![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav1kmaru&show_icons=true&theme=transparent)</div> -->
 
 <br/>
