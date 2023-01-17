@@ -69,7 +69,7 @@
 <h2 align="center"> 📊 My Github Stats</h2>
 
 
-<div align='center'><img src="https://github-readme-stats-bhav1kmaru.vercel.app//api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=dracula" /></div>
+<div align='center'><img src="https://github-readme-stats-bhav1kmaru.vercel.app/api?username=bhav1kmaru&hide=prs&count_private=true&show_icons=true&theme=dracula" /></div>
 
 <h2 align="center">✨ Top Languages</h2>
 
