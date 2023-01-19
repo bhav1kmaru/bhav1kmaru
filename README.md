@@ -13,10 +13,13 @@
     </a>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bhav1kmaru&style=for-the-badge&color=red" alt="bhav1kmaru"/></p>
-<p align="center"><img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> A full stack web developer(MERN) and competitive programming enthusiast, with strong organizational skills, loves problem solving, and willing to collaborate with a team to achieve organizational goals.
+<p align="center"><img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> A full stack web developer(MERN) and competitive programming enthusiast, with strong organizational skills, loves problem solving, and willing to collaborate with a team to achieve organizational goals.</p>
   
-  <h2 align="center"><b>Favourite quote :</b></h2><h3 align="center"> <i>"You will face many defeats in life but never let yourself be defeated" - Maya Angelou</i></h3> 
-</p>
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  </div>
+
 
 <!-- <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p> -->
 
