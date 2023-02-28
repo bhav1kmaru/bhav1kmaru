@@ -4,10 +4,9 @@
 <!--6-->
 <div align='center'><a href="https://app.daily.dev/bhav1kmaru"><img src="https://api.daily.dev/devcards/5847bace03dc45b8a77853532ed4599f.png?r=8qj" width="400" alt="Bhavik Maru's Dev Card"/></a></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bhavik Maru</h1>
-<h3 align="center">Full Stack Web Developer | Gamer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bhavik-maru-9b52b31b9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhav1kmaru" height="30" width="40" /></a>
- <a href="https://twitter.com/BhavikMaru18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavik-maru-9b52b31b9/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/40/null/linkedin.png" alt="bhav1kmaru" height="40" width="40" /></a>
  <a href="https://bhav1kmaru.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
